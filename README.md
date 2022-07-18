@@ -1,0 +1,2 @@
+# ftp_downloader
+用selenium自动下载跳板机上的行情数据
